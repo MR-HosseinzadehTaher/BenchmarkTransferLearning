@@ -13,7 +13,7 @@ Domain Adaptation and Representation Transfer (DART), in [MICCAI](https://www.mi
 [Paper]() | [Poster]() | [Code]() | [Presentation]()
 
 ## Major results from our work
-1. **Pre-trained models on fine-grained data are better suited for seg-mentation tasks, while pre-trained models on coarse-grained data pre-vail  on  classification  tasks.**
+1. **Pre-trained models on fine-grained data are better suited for seg-mentation tasks, while pre-trained models on coarse-grained data prevail  on  classification  tasks.**
 <br/>
 <p align="center"><img width="80%" src="images/ImageNet_vs_iNat21.png" /></p>
 <br/>
