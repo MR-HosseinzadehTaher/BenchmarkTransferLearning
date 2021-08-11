@@ -31,8 +31,8 @@ Domain Adaptation and Representation Transfer (DART), in [MICCAI](https://www.mi
 ## Installation
 Clone the repository and install dependencies using the following command:
 ```bash
-$ git clone https://github.com/MR-HosseinzadehTaher/medical_transfer_learning.git
-$ cd medical_transfer_learning/
+$ git clone https://github.com/MR-HosseinzadehTaher/BenchmarkTransferLearning.git
+$ cd BenchmarkTransferLearning/
 $ pip install -r requirements.txt
 ```
 
