@@ -72,7 +72,7 @@ You can download the pretrained models used/developed in our paper as follows:
 <td align="center">Pytorch</td>
 <td align="center">ChestX-ray14</td>
 <td align="center">Supervised</td>   
-<td align="center"><a href="">download</a></td>
+<td align="center"><a href="https://zenodo.org/record/5205234/files/chestxray14.pth.tar?download=1">download</a></td>
 
 </tr>
  <tr> 
@@ -80,7 +80,7 @@ You can download the pretrained models used/developed in our paper as follows:
 <td align="center">Pytorch</td>
 <td align="center">ChexPert</td>
 <td align="center">Supervised</td>   
-<td align="center"><a href="">download</a></td>
+<td align="center"><a href="https://zenodo.org/record/5205234/files/chexpert.pth.tar?download=1">download</a></td>
  </tr>
  
  <tr >
@@ -89,7 +89,7 @@ You can download the pretrained models used/developed in our paper as follows:
 <td align="center">Pytorch</td>
 <td align="center">ImageNet &#8594; ChestX-ray14</td>
 <td align="center">Supervised &#8594; Supervised</td>   
-<td align="center"><a href="">download</a></td>
+<td align="center"><a href="https://zenodo.org/record/5205234/files/ImageNet_chestxray14.pth.tar?download=1">download</a></td>
 
 </tr>
  <tr> 
@@ -97,7 +97,7 @@ You can download the pretrained models used/developed in our paper as follows:
 <td align="center">Pytorch</td>
 <td align="center">ImageNet &#8594; ChexPert</td>
 <td align="center">Supervised &#8594; Supervised</td>   
-<td align="center"><a href="">download</a></td>
+<td align="center"><a href="https://zenodo.org/record/5205234/files/ImageNet_chexpert.pth.tar?download=1">download</a></td>
  </tr>
  
  <tr >
