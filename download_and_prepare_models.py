@@ -23,10 +23,10 @@ MODELS = {
     'pcl-v1': ['https://storage.googleapis.com/sfr-pcl-data-research/PCL_checkpoint/PCL_v1_epoch200.pth.tar', 'pth'],
     'pcl-v2': ['https://storage.googleapis.com/sfr-pcl-data-research/PCL_checkpoint/PCL_v2_epoch200.pth.tar', 'pth'],
     'barlowtwins':['https://dl.fbaipublicfiles.com/barlowtwins/ep1000_bs2048_lrw0.2_lrb0.0048_lambd0.0051/resnet50.pth','pth'],
-    'ChestX-ray14':[],
-    'ChexPert':[],
-    'ImageNet_ChestX-ray14':[],
-    'ImageNet_ChexPert':[],
+    'ChestX-ray14':['https://zenodo.org/record/5205234/files/chestxray14.pth.tar?download=1', 'pth'],
+    'ChexPert':['https://zenodo.org/record/5205234/files/chexpert.pth.tar?download=1', 'pth'],
+    'ImageNet_ChestX-ray14':['https://zenodo.org/record/5205234/files/ImageNet_chestxray14.pth.tar?download=1', 'pth'],
+    'ImageNet_ChexPert':['https://zenodo.org/record/5205234/files/ImageNet_chexpert.pth.tar?download=1', 'pth'],
 }
 
 
