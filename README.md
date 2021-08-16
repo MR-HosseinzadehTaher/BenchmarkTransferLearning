@@ -9,7 +9,7 @@ We hope that in the light of our study, the medical imaging community will benef
 
 [Mohammad Reza Hosseinzadeh Taher](https://github.com/MR-HosseinzadehTaher)<sup>1</sup>, [Fatemeh Haghighi](https://github.com/fhaghighi)<sup>1</sup>, [Ruibin Feng](https://profiles.stanford.edu/ruibin-feng?releaseVersion=9.3.2)<sup>2</sup>, [Michael B. Gotway](https://www.mayoclinic.org/biographies/gotway-michael-b-m-d/bio-20055566)<sup>3</sup>, [Jianming Liang](https://chs.asu.edu/jianming-liang)<sup>1</sup><br/>
 <sup>1 </sup>Arizona State University, <sup>2 </sup>Stanford University, <sup>3 </sup>Mayo Clinic <br/>
-International Conference on Medical Image Computing and Computer Assisted Intervention ([MICCAI](https://www.miccai2021.org/en/) 2021); Domain Adaptation and Representation Transfer (DART) <br/>
+International Conference on Medical Image Computing and Computer Assisted Intervention ([MICCAI 2021](https://www.miccai2021.org/en/)); Domain Adaptation and Representation Transfer (DART) <br/>
 [Paper]() | [Poster]() | [Code]() | [Presentation]()
 
 ## Major results from our work
