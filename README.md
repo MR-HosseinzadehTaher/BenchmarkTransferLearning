@@ -304,6 +304,16 @@ python main_segmentation.py --data_set DRIVE  \
 
 ## Citation
 If you use this code or use our pre-trained weights for your research, please cite our paper:
+```
+@misc{taher2021systematic,
+      title={A Systematic Benchmarking Analysis of Transfer Learning for Medical Image Analysis}, 
+      author={Mohammad Reza Hosseinzadeh Taher and Fatemeh Haghighi and Ruibin Feng and Michael B. Gotway and Jianming Liang},
+      year={2021},
+      eprint={2108.05930},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 
 ## Acknowledgement
