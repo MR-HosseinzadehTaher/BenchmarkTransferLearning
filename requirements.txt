@@ -7,7 +7,7 @@ simpleitk==2.0.2
 scipy
 pydicom
 opencv-python==4.2.0.32
-timm == 0.3.2
+timm==0.3.2
 transformers==4.1.1 
 albumentations==0.4.3
 imgaug
