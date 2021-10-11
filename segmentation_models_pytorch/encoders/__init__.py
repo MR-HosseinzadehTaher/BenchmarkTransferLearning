@@ -56,10 +56,10 @@ def get_encoder(name, in_channels=3, depth=5, weights=None):
                 state_dict = checkpoint
 
             state_dict = {k.replace("module.", ""): v for k, v in state_dict.items()}
-            state_dict = {k.replace("module.encoder_q.", ""): v for k, v in state_dict.items()}
+            state_dict = {k.replace("encoder_q.", ""): v for k, v in state_dict.items()}
 
             for k in list(state_dict.keys()):
-                if k.startswith('fc') or k.startswith('classifier') or k.startswith('projection_head') or k.startswith('prototypes') or k.startswith('module.encoder_k') or k.startswith("module.queue"):
+                if k.startswith('fc') or k.startswith('classifier') or k.startswith('projection_head') or k.startswith('prototypes') or k.startswith('encoder_k') or k.startswith("queue"):
                     del state_dict[k]
             encoder.load_state_dict(state_dict)
             print("=> loaded pre-trained model '{}'".format(weights))
