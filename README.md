@@ -306,13 +306,15 @@ python main_segmentation.py --data_set DRIVE  \
 ## Citation
 If you use this code or use our pre-trained weights for your research, please cite our paper:
 ```
-@misc{taher2021systematic,
-      title={A Systematic Benchmarking Analysis of Transfer Learning for Medical Image Analysis}, 
-      author={Mohammad Reza Hosseinzadeh Taher and Fatemeh Haghighi and Ruibin Feng and Michael B. Gotway and Jianming Liang},
-      year={2021},
-      eprint={2108.05930},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@InProceedings{Hosseinzadeh2021Systematic,
+ author="Hosseinzadeh Taher, Mohammad Reza and Haghighi, Fatemeh and Feng, Ruibin and Gotway, Michael B. and Liang, Jianming",
+ title="A Systematic Benchmarking Analysis of Transfer Learning for Medical Image Analysis",
+ booktitle="Domain Adaptation and Representation Transfer, and Affordable Healthcare and AI for Resource Diverse Global Health",
+ year="2021",
+ publisher="Springer International Publishing",
+ address="Cham",
+ pages="3--13",
+ isbn="978-3-030-87722-4"
 }
 ```
 
