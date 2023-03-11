@@ -111,6 +111,7 @@ def classification_engine(args, model_path, output_path, diseases, dataset_train
           print(
             "Epoch {:04d}: val_loss improved from {:.5f} to {:.5f}, saving model to {}".format(epoch, best_val_loss, val_loss,
                                                                                                save_model_path))
+          best_val_loss = val_loss
 
         else:
           print("Epoch {:04d}: val_loss did not improve from {:.5f} ".format(epoch, best_val_loss ))
@@ -225,7 +226,8 @@ def segmentation_engine(args, model_path, dataset_train, dataset_val, dataset_te
           patience_counter = 0
 
           print(
-            "Epoch {:04d}: val_loss improved from {:.5f} to {:.5f}, saving model to {}".format(epoch, best_val_loss, val_loss,                                                                                      os.path.join(model_path,"checkpoint.pt")))
+            "Epoch {:04d}: val_loss improved from {:.5f} to {:.5f}, saving model to {}".format(epoch, best_val_loss, val_loss, os.path.join(model_path,"checkpoint.pt")))
+          best_val_loss = val_loss
         else:
           print("Epoch {:04d}: val_loss did not improve from {:.5f} ".format(epoch, best_val_loss ))
           patience_counter += 1
