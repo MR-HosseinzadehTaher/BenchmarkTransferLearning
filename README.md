@@ -255,7 +255,7 @@ Datasets can be downloaded from the following links.
 
 For the classificatin tasks, we have provided data splits in the dataset directory. For each of train, test, and validation sets, a text file including images and labels information is provided. For the segmentation tasks, you need to put the train, test, and validation sets into separate folders.  
 
-## Fine-tuing of pre-trained models on target task
+## Fine-tuning of pre-trained models on target task
 1. Download the desired pre-trained model from the above-mentioned links.
 2. Download the desired dataset; you can simply add any other dataset that you wish.
 3. For classification tasks, run the following command by the desired parameters. For example, to finetune barlowtwins on ChestX-ray14, run:
