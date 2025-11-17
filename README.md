@@ -1,7 +1,7 @@
 # Large-scale Benchmarking and Boosting Transfer Learning for Medical Image Analysis
 A comprehensive systematic study of transfer learning of numerous models with distinct architectures pretrained on various datasets using different strategies for medical imaging applications, focusing on (i) benchmarking numerous conventional and modern convolutional neural network (ConvNet) and vision transformer architectures across various medical tasks; (ii) investigating the impact of fine-tuning data size on the performance of ConvNets compared with vision transformers in medical imaging; (iii) examining the impact of pretraining data granularity on transfer learning performance; (iv) evaluating transferability of a wide range of recent self-supervised methods with diverse training objectives to a variety of medical tasks across different modalities; and (v) delving into the efficacy of domain-adaptive pretraining on both photographic and medical datasets to develop high-performance models for medical tasks.
 
-<p align="center"><img src="images/Benchmark2.pdf" /></p>
+<p align="center"><img src="images/Benchmark2.png" /></p>
 
 ## Publication
 <b>Large-scale benchmarking and boosting transfer learning for medical image analysis </b> <br/>
