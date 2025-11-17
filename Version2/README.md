@@ -57,7 +57,7 @@ You can download the pretrained models used/developed in our paper as follows:
 <td align="center">Pytorch</td>
 <td align="center">ImageNet &#8594; MIMIC</td>
 <td align="center">Supervised &#8594; Supervised</td>   
-<td align="center"><a href="">download</a></td>
+<td align="center"><a href="https://zenodo.org/records/17627332/files/domain_adapted_resnet50_imagenet_mimic_checkpoint.pth.tar?download=1">download</a></td>
  </tr>
 
 <tr> 
@@ -65,7 +65,7 @@ You can download the pretrained models used/developed in our paper as follows:
 <td align="center">Pytorch</td>
 <td align="center">ImageNet &#8594; MIMIC</td>
 <td align="center">Supervised &#8594; Supervised</td>   
-<td align="center"><a href="">download</a></td>
+<td align="center"><a href="https://zenodo.org/records/17627332/files/domain_adapted_swin_base_imagenet_mimic_checkpoint.pth.tar?download=1">download</a></td>
  </tr>
 
 <tr> 
@@ -73,7 +73,7 @@ You can download the pretrained models used/developed in our paper as follows:
 <td align="center">Pytorch</td>
 <td align="center">ImageNet &#8594; MIMIC</td>
 <td align="center">Supervised &#8594; Supervised</td>   
-<td align="center"><a href="">download</a></td>
+<td align="center"><a href="https://zenodo.org/records/17627332/files/domain_adapted_convnext_base_imagenet_mimic_checkpoint.pth.tar?download=1">download</a></td>
  </tr>
 
 <tr >
