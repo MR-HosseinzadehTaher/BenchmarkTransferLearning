@@ -11,6 +11,7 @@ A comprehensive systematic study of transfer learning of numerous models with di
 Medical Image Analysis (MedIA), 2025 <br/>
 
 [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1361841525000350) | [Code](https://github.com/MR-HosseinzadehTaher/BenchmarkTransferLearning/tree/main/Version2) 
+
 ## Installation
 Clone the repository and install dependencies using the following command:
 ```bash
